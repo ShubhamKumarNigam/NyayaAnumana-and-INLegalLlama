@@ -153,6 +153,16 @@ By using an `environment.yml`, we can also easily manage dependencies from both 
 ## Citation
 If you use this project in your research or other work, please cite it as follows:
 ```
+@inproceedings{nigam2025nyayaanumana,
+  title={NYAYAANUMANA and INLEGALLLAMA: The largest Indian legal judgment prediction dataset and specialized language model for enhanced decision analysis},
+  author={Nigam, Shubham Kumar and Balaramamahanthi, Deepak Patnaik and Mishra, Shivam and Shallum, Noel and Ghosh, Kripabandhu and Bhattacharya, Arnab},
+  booktitle={Proceedings of the 31st International Conference on Computational Linguistics},
+  pages={11135--11160},
+  year={2025}
+}
+
+or
+
 @inproceedings{nigam-etal-2025-nyayaanumana,
     title = "{NYAYAANUMANA} and {INLEGALLLAMA}: The Largest {I}ndian Legal Judgment Prediction Dataset and Specialized Language Model for Enhanced Decision Analysis",
     author = "Nigam, Shubham Kumar  and
