@@ -12,7 +12,7 @@ NyayaAnumana & INLegalLlama: The Largest Indian Legal Judgment Prediction Datase
   <a href="https://arxiv.org/abs/2412.08385"><b>[📜 ArXiv]</b></a> •
   <a href="https://huggingface.co/collections/L-NLProc/nyayaanumana-and-inlegalllama-models-6755809db3826df8fd96d570"><b>[🤗 HF Models]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama/tree/main"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
-  <a href="https://forms.gle/uimgUTu5S1BAJb4X9"><b>[📝 Google Form to request dataset access]</b></a> 
+  <a href="https://huggingface.co/collections/L-NLProc/nyayaanumana-and-inlegalllama-dataset"><b>[🤗 HF Datasets]</b></a> •
 </p>
 
 <p align="center">
