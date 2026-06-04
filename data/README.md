@@ -41,10 +41,7 @@ To train and evaluate models(in classification_prediction folder in parent direc
 The dataset is **free to use for academic research purposes**. Commercial usage of the dataset is strictly prohibited.
 
 ### How to Request Access
-To obtain the dataset:
-1. Fill out the [NyayaAnuman Dataset Request Form](https://forms.gle/81XMsnZpTQBfPeZt7).
-2. After submitting the form, you will receive the dataset access link via email within one week.
-**Note:** Use your **official email address** for verification. Requests are processed in batches, so we appreciate your patience.
+All the datasets in [Hugging Face L-NLProc: Legal Natural Language Processing](https://huggingface.co/L-NLProc) collection [L-NLProc/NyayaAnumana-and-InLegalLegalLlama Datasets](https://huggingface.co/collections/L-NLProc/nyayaanumana-and-inlegalllama-dataset)
 
 ---
 
